@@ -33,3 +33,7 @@ As for now, there are following parts of Star:
 - star - facilitiates procurement of items with it's parts
 
 In more complex scenarios, items might represent accepted file formats, while parts might represent huge number of anything that is created in these formats.
+
+## Why it's called e-commerce platform and not called procurement platform?
+
+Because it's not made for corporations procurement automation processes. It's made for clients procurement automation processes. Clients are the most important, not producers, not coprorations. There is no coproration-side dashboard in this project, there is only client-side inqueries utilities in this project. If any corporation wants to create it, they are free to do it, but it will not be part of this project. This project also assumes that if company creates any dashboard for itself and someone uses it, it means that the one who uses it should be fired or that one should learn to program and his job should be automated, the sooner the better. Creating dashboards, if not temporary, is in direct contradiction to the basic assumption of every programmer who wants to call himself a programmer, i.e. to automate manual repetitive work.
