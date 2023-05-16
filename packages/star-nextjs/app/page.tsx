@@ -12,7 +12,8 @@ export default function Home() {
       <h1>Website</h1>
       <p>Please submit your inquiry to start procurement process.</p>
       <form onSubmit={handleSubmit}>
-        <input name="inquiry" type="file" />
+        <label htmlFor="inquiry">Inquiry</label>
+        <input name="inquiry" id="inquiry" type="file" />
         <button type="submit">Submit</button>
       </form>
     </main>
